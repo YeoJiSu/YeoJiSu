@@ -1,21 +1,18 @@
-### Hi there, I'm JiSu👋
+## 🐰 Jisu
+**Hello, I’m a junior at PNU(major. computer science and engineering) who likes to communicate with other people.**
+
+[![Velog]](https://velog.io/@diduya)
+[![Instagram]](https://www.instagram.com/diduya0.0/)
+[![Mail]](mailto:yeoji1503@gmail.com)
+
+
 ![https://github.com/YeoJiSu](https://github-readme-stats.vercel.app/api?username=YeoJiSu&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YeoJiSu&show_icons=true&langs_count=6&layout=compact&hide=shell&theme=radical)](https://github.com/YeoJiSu?tab=repositories)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=duwltn1301)](https://solved.ac/duwltn1301/)
 
-<!--
-**YeoJiSu/YeoJiSu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🛠 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Educations
