@@ -6,7 +6,6 @@
 **Hello, I’m a junior at PNU(major. computer science and engineering) who likes to communicate with other people.**
 
 [![Velog]](https://velog.io/@diduya)
-[![Instagram]](https://www.instagram.com/diduya0.0/)
 [![Mail]](mailto:yeoji1503@gmail.com)
 
 
