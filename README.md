@@ -28,5 +28,4 @@
 [Velog]: http://img.shields.io/badge/-%20Blog-DD0B78?style=flat-square&logo=github%20Sponsors&logoColor=white
 [instagram]: https://img.shields.io/badge/-diduya0.0-E4405F?style=flat-square&logo=Instagram&logoColor=white
 [mail]: https://img.shields.io/badge/Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white
-[visitors]: https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjeonghye-choi&count_bg=%2359DCFF&title_bg=%23646464&icon=github.svg&icon_color=%23FFFFFF&title=visitors&edge_flat=false
 
