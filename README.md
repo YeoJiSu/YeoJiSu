@@ -3,7 +3,7 @@
 </div>
 
 ## 🐰 Jisu
-**Hello, I’m a junior at PNU(major. computer science and engineering) who likes to communicate with other people.**
+**Hello, I’m a senior at PNU(major. computer science and engineering) who likes to communicate with other people.**
 
 [![Velog]](https://velog.io/@diduya)
 [![Mail]](mailto:duwltn1301@pusan.ac.kr)
