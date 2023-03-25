@@ -19,7 +19,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=duwltn1301)](https://solved.ac/duwltn1301/)
 
 
-## 🛠 My Tech STack
+## 🛠 My Tech Stack
 #### Deep-learning
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
