@@ -2,30 +2,25 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYeoJiSu&count_bg=%23C23EA9&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </div>
 
-## 🐰 Jisu
-**Hello, I’m a senior at PNU(major. computer science and engineering) who likes to communicate with other people.**
+### 🐰 About Me
+**Hello, my name is Jisu Yeo. <br> I’m a senior at PNU(major. computer science and engineering).**
+* ✉️ Email | duwltn1301@pusan.ac.kr
+* ✏️ Blog | https://velog.io/@diduya
 
+<!--
 [![Velog]](https://velog.io/@diduya)
 [![Mail]](mailto:duwltn1301@pusan.ac.kr)
+-->
+### 🏢 Career
+* INEEJI - AI R&D Intern (Mar 2023 ~ JUNE 2023)
 
-
-
-![https://github.com/YeoJiSu](https://github-readme-stats.vercel.app/api?username=YeoJiSu&show_icons=true&theme=radical)
-
-<!-- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YeoJiSu&show_icons=true&langs_count=6&layout=compact&hide=shell&theme=radical)](https://github.com/YeoJiSu?tab=repositories)
- -->
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=duwltn1301)](https://solved.ac/duwltn1301/)
-
-
-## 🛠 My Tech Stack
-#### Machine-learning
+### 🛠 Stacks
+* Machine-learning <br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![Pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
 
-#### Web
+* Web <br>
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
@@ -46,18 +41,25 @@
 <!-- Android Studio, kotlin -->
 <!-- <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=Android Studio&logoColor=white"> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"> -->
 
-#### Database 
-<!-- MySQL -->
+* Database <br>
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
 
-#### Environment 
-<!-- macOS, Windows  -->
+* Environment <br>
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=white)
+<!--
+* Tooling<br>
+  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+-->
 
-#### Tooling 
-<!-- Github -->
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+<br>
+
+![https://github.com/YeoJiSu](https://github-readme-stats.vercel.app/api?username=YeoJiSu&show_icons=true&theme=radical) [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=duwltn1301)](https://solved.ac/duwltn1301/)
+
+<!-- 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YeoJiSu&show_icons=true&langs_count=6&layout=compact&hide=shell&theme=radical)](https://github.com/YeoJiSu?tab=repositories)
+ -->
+
 
 
 <!-- Header -->
