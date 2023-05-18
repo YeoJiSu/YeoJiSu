@@ -12,7 +12,7 @@
 [![Mail]](mailto:duwltn1301@pusan.ac.kr)
 -->
 ### 🏢 Career
-* INEEJI - AI R&D Intern (Mar 2023 ~ JUNE 2023)
+* AI Engineer(R&D) - Intern at INEEJI (Mar 2023 ~ JUNE 2023)
 
 ### 🛠 Stacks
 * Machine-learning <br>
