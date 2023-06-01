@@ -2,19 +2,19 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYeoJiSu&count_bg=%23C23EA9&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </div>
 
-### 🐰 About Me
-**Hello, my name is Jisu Yeo. <br> I’m a senior at PNU(major. computer science and engineering).**
-* ✉️ Email | duwltn1301@pusan.ac.kr
-* ✏️ Blog | https://velog.io/@diduya
+## About Me
+**Hello, my name is Jisu Yeo. <br> I’m a senior at PNU(major. computer science and engineering).** <br>
 
 <!--
 [![Velog]](https://velog.io/@diduya)
 [![Mail]](mailto:duwltn1301@pusan.ac.kr)
 -->
-### 🏢 Career
-* AI Engineer(R&D) - Intern at INEEJI (Mar 2023 ~ JUNE 2023)
+## Career
+<img src="https://github.com/YeoJiSu/YeoJiSu/assets/76769044/f690c5d6-de1b-4341-85b0-4079a2eb9beb" width="40"></img> <a href="https://www.ineeji.com/">  INEEJI </a> <br>
+Intern for an AI Engineer(R&D), 2023.03 ~ 2023.06 <br>
+Optimized the operation of the annealing process of the **3CGL**(Continuous Galvanizing Line).
 
-### 🛠 Stacks
+## Stacks
 * Machine-learning <br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
@@ -60,11 +60,15 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YeoJiSu&show_icons=true&langs_count=6&layout=compact&hide=shell&theme=radical)](https://github.com/YeoJiSu?tab=repositories)
  -->
 
+## Links
+[![instagram]](https://www.instagram.com/diduya0.0/)
+[![Portfolio]](https://www.notion.so/Hello-I-m-Jisu-a1529cec56fc4426a92b6832e4ec0019)
+[![Velog]](https://velog.io/@diduya)
 
 
 <!-- Header -->
 
 [Velog]: http://img.shields.io/badge/-%20Velog-96F2D7?style=flat-square&logo=github%20Sponsors&logoColor=white
 [instagram]: https://img.shields.io/badge/-diduya0.0-E4405F?style=flat-square&logo=Instagram&logoColor=white
-[mail]: https://img.shields.io/badge/Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white
+[Portfolio]: https://img.shields.io/badge/Portfolio-EA4335?style=flat-square&logo=Portfolio&logoColor=white
 
