@@ -27,7 +27,9 @@ Optimized the operation of the annealing process of the **3CGL**(Continuous Galv
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=Express&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
 
-
+* App <br>
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-F7DF1E?style=for-the-badge&logo=Dart&logoColor=white)
 
 <!-- Python, C++ -->
 <!-- <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white">  -->
@@ -46,7 +48,7 @@ Optimized the operation of the annealing process of the **3CGL**(Continuous Galv
 
 * Environment <br>
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=Windows&logoColor=white)
 <!--
 * Tooling<br>
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
