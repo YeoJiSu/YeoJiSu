@@ -3,7 +3,8 @@
 </div>
 
 ## About Me
-**Hello, my name is Jisu Yeo. <br> I’m a senior at PNU(major. computer science and engineering).** <br>
+Hello, my name is Jisu Yeo. <br> I’m a senior at PNU(major. computer science and engineering).<br>
+Here's my tech blog 👉🏻 https://velog.io/@diduya <br>
 
 <!--
 [![Velog]](https://velog.io/@diduya)
@@ -31,6 +32,10 @@ Optimized the operation of the annealing process of the **3CGL**(Continuous Galv
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-F7DF1E?style=for-the-badge&logo=Dart&logoColor=white)
 
+* Embedded Systems <br>
+![stmboard](https://img.shields.io/badge/stmboard-02569B?style=for-the-badge&logo=IAREmbeddedWorkbench&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-339933?style=for-the-badge&logo=Arduino&logoColor=white)
+![C](https://img.shields.io/badge/C-F7DF1E?style=for-the-badge&logo=C&logoColor=white)
 <!-- Python, C++ -->
 <!-- <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white">  -->
 
@@ -47,6 +52,7 @@ Optimized the operation of the annealing process of the **3CGL**(Continuous Galv
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
 
 * Environment <br>
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=Linux&logoColor=white)
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![Windows](https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=Windows&logoColor=white)
 <!--
@@ -64,7 +70,7 @@ Optimized the operation of the annealing process of the **3CGL**(Continuous Galv
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YeoJiSu&show_icons=true&langs_count=6&layout=compact&hide=shell&theme=radical)](https://github.com/YeoJiSu?tab=repositories)
  -->
  
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=duwltn1301)](https://solved.ac/duwltn1301/)
+<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=duwltn1301)](https://solved.ac/duwltn1301/) -->
 
 ## Links
 [![instagram]](https://www.instagram.com/diduya0.0/)
