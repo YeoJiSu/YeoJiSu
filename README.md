@@ -16,20 +16,20 @@ Here's my tech blog 👉🏻 https://velog.io/@diduya <br>
 -->
 
 ## Research Experience
-<img src="https://github.com/user-attachments/assets/4b6a4460-7035-472c-89c3-76dca94c73d0" width=40/> KAIST AI 대학원 SAILAB<br>
-* Advisor: 최재식 교수님
-* 2024년 하계 KAIST AI Research Internship [KAIRI](https://gsai.kaist.ac.kr/2024%EB%85%84-%ED%95%98%EA%B3%84-kaist-ai-research-internship-kairi-%EB%AA%A8%EC%A7%91-%EC%95%88%EB%82%B4-%EC%A0%91%EC%88%98-%EB%A7%88%EA%B0%90-5%EC%9B%94-12%EC%9D%BC-%EC%9D%BC%EC%9A%94%EC%9D%BC/?lang=ko) - 오프라인 연구 참여 (2024.07 ~ 2024.12)
-* Non-stationary time series data에서 Brownian motion을 고려한 Change point Detection 연구. (박사과정 멘토님과 진행한 심화 연구)
-* Time Series Analysis 분야의 Trend Filtering 관련 문제 정의 방법론 학습. (연구 기초를 다지기 위한 필수 학습 과정)
-* Time Series, LLM, Transformer 스터디 참여 및 논문 리뷰, 발표.
-* Records of all my KAIRI research activity => [link](https://even-hickory-474.notion.site/72162639d5a3453db1fad3ece7615143?v=51c08ea7b5474e91b5f11d252434b20f&pvs=4)
+<img src="https://github.com/user-attachments/assets/4b6a4460-7035-472c-89c3-76dca94c73d0" width=40/> SAILab, KAIST AI<br>
+* Advisor: Professor Jaesik Choi
+* Summer 2024 KAIST AI Research Internship [KAIRI](https://gsai.kaist.ac.kr/2024%EB%85%84-%ED%95%98%EA%B3%84-kaist-ai-research-internship-kairi-%EB%AA%A8%EC%A7%91-%EC%95%88%EB%82%B4-%EC%A0%91%EC%88%98-%EB%A7%88%EA%B0%90-5%EC%9B%94-12%EC%9D%BC-%EC%9D%BC%EC%9A%94%EC%9D%BC/?lang=ko) in-person research participation (2024.07 ~ ing)
+* Forecasting the Real House Price Index (2024.10 ~ 2025.02 expected)
+* Change Point Detection in Non-Stationary Time Series: A Brownian Motion Approach (Assisting a PhD Mentor 2024.08 ~ 2024.09)
+* Review of Trend Filtering Papers and Definition of Problems Related to Abrupt Changes and Extreme Values (2024.07)
+* Participated in studies on Time Series, LLM, and XAI
 
-<img src="https://github.com/user-attachments/assets/fc2679f9-cf77-41ce-8a10-1844c4a57bac" width=40/> POSTECH 컴퓨터공학과 대학원 DI LAB<br>
-* Advisor: 유환조 교수님
-* 2023학년도 동계 연구참여 프로그램 [WURF](https://cse.postech.ac.kr/admission-information/graduate-course/#;) - 온라인 연구 참여 (2024.01 ~ 2024.02)
+<img src="https://github.com/user-attachments/assets/fc2679f9-cf77-41ce-8a10-1844c4a57bac" width=40/> DILab, POSTECH CSE<br>
+* Advisor: Professor Hwanjo Yu
+* 2023학년도 동계 연구참여 프로그램 [WURF](https://cse.postech.ac.kr/admission-information/graduate-course/#;) online research participation (2024.01 ~ 2024.02)
 * "Input initialization for inversion of neural networks using k-nearest neighbor approach" 논문 분석 및 구현, 리뷰. ([link](https://www.canva.com/design/DAF50ca0SwY/EgKy8yqZnYxpnO64bam8bQ/edit?utm_content=DAF50ca0SwY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
 * “Attention is all you need” 논문 리뷰 및 Transformer & Hugging Face NLP Tutorial 학습. ([link](https://www.canva.com/design/DAF7tEtARjg/sM_O724LDUAEtEc2mJdRBg/edit?utm_content=DAF7tEtARjg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
-
+* RAG(Retrieval-Augmented Generation) 논문 리뷰 및 문제 정의. ([link](https://drive.google.com/file/d/18-GHPqybGAWUd7FBZASQWinovTaQVAgp/view?usp=sharing))
 
 <img src="https://github.com/YeoJiSu/YeoJiSu/assets/76769044/f690c5d6-de1b-4341-85b0-4079a2eb9beb" width="40"></img> (주) 인이지<br>
 * AI 연구원 인턴 (2023.03 ~ 2023.06) 
