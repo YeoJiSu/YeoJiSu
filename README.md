@@ -18,45 +18,47 @@ Here's my tech blog 👉🏻 https://velog.io/@diduya <br>
 ## Research Experience
 <img src="https://github.com/user-attachments/assets/4b6a4460-7035-472c-89c3-76dca94c73d0" width=40/> SAILab, KAIST AI<br>
 * Advisor: Professor Jaesik Choi
-* Summer 2024 KAIST AI Research Internship [KAIRI](https://gsai.kaist.ac.kr/2024%EB%85%84-%ED%95%98%EA%B3%84-kaist-ai-research-internship-kairi-%EB%AA%A8%EC%A7%91-%EC%95%88%EB%82%B4-%EC%A0%91%EC%88%98-%EB%A7%88%EA%B0%90-5%EC%9B%94-12%EC%9D%BC-%EC%9D%BC%EC%9A%94%EC%9D%BC/?lang=ko) in-person research participation (2024.07 ~ ing)
-* Forecasting the Real House Price Index (2024.10 ~ 2025.02 expected)
+* 2024 Summer **K**AIST **AI** **R**esearch **I**nternship [KAIRI](https://gsai.kaist.ac.kr/2024%EB%85%84-%ED%95%98%EA%B3%84-kaist-ai-research-internship-kairi-%EB%AA%A8%EC%A7%91-%EC%95%88%EB%82%B4-%EC%A0%91%EC%88%98-%EB%A7%88%EA%B0%90-5%EC%9B%94-12%EC%9D%BC-%EC%9D%BC%EC%9A%94%EC%9D%BC/?lang=ko) in-person research participation (2024.07 ~ ing)
+* Forecasting Regional House Price Index (2024.10 ~ ing)
+* Conformal Prediction for Time Series (2025.01 ~ ing)
 * Change Point Detection in Non-Stationary Time Series: A Brownian Motion Approach (Assisting a PhD Mentor 2024.08 ~ 2024.09)
 * Review of Trend Filtering Papers and Definition of Problems Related to Abrupt Changes and Extreme Values (2024.07)
-* Participated in studies on Time Series, LLM, and XAI
+<!--* Participated in studies on Time Series, LLM, and XAI-->
 
 <img src="https://github.com/user-attachments/assets/fc2679f9-cf77-41ce-8a10-1844c4a57bac" width=40/> DILab, POSTECH CSE<br>
 * Advisor: Professor Hwanjo Yu
-* 2023학년도 동계 연구참여 프로그램 [WURF](https://cse.postech.ac.kr/admission-information/graduate-course/#;) online research participation (2024.01 ~ 2024.02)
-* "Input initialization for inversion of neural networks using k-nearest neighbor approach" 논문 분석 및 구현, 리뷰. ([link](https://www.canva.com/design/DAF50ca0SwY/EgKy8yqZnYxpnO64bam8bQ/edit?utm_content=DAF50ca0SwY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
-* “Attention is all you need” 논문 리뷰 및 Transformer & Hugging Face NLP Tutorial 학습. ([link](https://www.canva.com/design/DAF7tEtARjg/sM_O724LDUAEtEc2mJdRBg/edit?utm_content=DAF7tEtARjg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
-* RAG(Retrieval-Augmented Generation) 논문 리뷰 및 문제 정의. ([link](https://drive.google.com/file/d/18-GHPqybGAWUd7FBZASQWinovTaQVAgp/view?usp=sharing))
+* 2023 **W**inter **U**ndergraduate **R**esearch **F**ellowship [WURF](https://cse.postech.ac.kr/admission-information/graduate-course/#;) online research participation (2024.01 ~ 2024.02)
+* "Input initialization for inversion of neural networks using k-nearest neighbor approach" paper reveiw & implementation. ([link](https://www.canva.com/design/DAF50ca0SwY/EgKy8yqZnYxpnO64bam8bQ/edit?utm_content=DAF50ca0SwY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
+* “Attention is all you need” paper review & Study Transformer & Hugging Face NLP Tutorial. ([link](https://www.canva.com/design/DAF7tEtARjg/sM_O724LDUAEtEc2mJdRBg/edit?utm_content=DAF7tEtARjg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
+* RAG(Retrieval-Augmented Generation) paper review and problem definition. ([link](https://drive.google.com/file/d/18-GHPqybGAWUd7FBZASQWinovTaQVAgp/view?usp=sharing))
 
-<img src="https://github.com/YeoJiSu/YeoJiSu/assets/76769044/f690c5d6-de1b-4341-85b0-4079a2eb9beb" width="40"></img> (주) 인이지<br>
-* AI 연구원 인턴 (2023.03 ~ 2023.06) 
-* Optimized the operation of the annealing process of the **3CGL**(Continuous Galvanizing Line).
+<img src="https://github.com/YeoJiSu/YeoJiSu/assets/76769044/f690c5d6-de1b-4341-85b0-4079a2eb9beb" width="40"></img> INEEJI Corp. <br>
+* AI Engineer Internship (2023.03 ~ 2023.06) 
+* Project Name: Optimization of **3CGL**(Continuous Galvanizing Line) furnace operation.
+* Developed XAI models to predict the steel properties and the temperatures of six furnaces.
 
 ## Projects
-* 피부 질환 분류 및 세그멘테이션을 위한 인공지능 모델과 웹 기반 진단 서비스 개발
+> During undergraduate studies
+
+* Skin Disease Classification and Segmentation
   * 2024.05 ~ 2024.06
   * [project link](https://github.com/YeoJiSu/SkinAI-WebDiagnosis)
-* 철강 불량 검출 및 분류 인공지능 학습 모델 개발 
+* Steel Defects Detection and Classification
   * 2023.04 ~ 2023.10
-  * 캡스톤 디자인 (졸업과제) - 은상 🏅
+  * Capstone Design (Graduation Project) - Silver Award 🏅
   * [project link](https://github.com/YeoJiSu/Smart-Factory-Project)
-* AI를 활용한 범죄 안전도 예측 및 예방 어플
+* Crime Risk Prediction
   * 2023.07 ~ 2023.08
-  * 제 2회 산업인공지능 프로젝트 경진대회 - 우수상 🏅
+  * The 2nd Industrial AI Project Competition - Excellence Award 🏅
   * [project link](https://github.com/YeoJiSu/No-Crime-App)
-* 배리어프리(barrier-free) 스마트 쇼핑 카트 제작
+* Barrier-free Smart Shopping Cart
   * 2023.06 ~ 2023.07
-  * Hi-MAKER THON 대회 - 우수상 🏅
+  * Hi-MAKER THON - Excellence Award 🏅
   * [project link](https://github.com/YeoJiSu/barrier-free-shopping-cart)
-* 자외선 지수 예측 기술 개발
+* UV Index Prediction
   * 2022.06 ~ 2022.08
-  * 2022 날씨 빅데이터 콘테스트
+  * 2022 Weather Big Data Contest
   * [project link](https://github.com/YeoJiSu/Ultraviolet-Prediction-Model)
-
-
 
 <!--
 ## Stacks
