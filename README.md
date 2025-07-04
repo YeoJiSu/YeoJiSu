@@ -1,13 +1,11 @@
-<div align="right">
+<!--<div align="right">
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYeoJiSu&count_bg=%23C23EA9&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-</div>
+</div>-->
 
 ## About Me
-Hello, my name is Jisu Yeo.
-I recently graduated from Pusan ​​National University with a bachelor's degree in Computer Science and Engineering,
-and I hope to become a **Researcher in the field of artificial intelligence**. 
-
-My research interest is **Time Series Analysis**. <br>
+Hello, my name is Jisu Yeo. 👋 <br>
+I'm an incoming master's student at KAIST AI Graduate School. <br>
+My research interest is **Time Series**. <br>
 Here's my tech blog 👉🏻 https://velog.io/@diduya <br>
 
 <!--
@@ -18,7 +16,8 @@ Here's my tech blog 👉🏻 https://velog.io/@diduya <br>
 ## Research Experience
 <img src="https://github.com/user-attachments/assets/4b6a4460-7035-472c-89c3-76dca94c73d0" width=40/> SAILab, KAIST AI<br>
 * Advisor: Professor Jaesik Choi
-* 2024 Summer **K**AIST **AI** **R**esearch **I**nternship [KAIRI](https://gsai.kaist.ac.kr/2024%EB%85%84-%ED%95%98%EA%B3%84-kaist-ai-research-internship-kairi-%EB%AA%A8%EC%A7%91-%EC%95%88%EB%82%B4-%EC%A0%91%EC%88%98-%EB%A7%88%EA%B0%90-5%EC%9B%94-12%EC%9D%BC-%EC%9D%BC%EC%9A%94%EC%9D%BC/?lang=ko) in-person research participation (2024.07 ~ ing)
+* Master’s student (2025.09 ~ ing)
+* 2024 Summer **K**AIST **AI** **R**esearch **I**nternship [KAIRI](https://gsai.kaist.ac.kr/2024%EB%85%84-%ED%95%98%EA%B3%84-kaist-ai-research-internship-kairi-%EB%AA%A8%EC%A7%91-%EC%95%88%EB%82%B4-%EC%A0%91%EC%88%98-%EB%A7%88%EA%B0%90-5%EC%9B%94-12%EC%9D%BC-%EC%9D%BC%EC%9A%94%EC%9D%BC/?lang=ko) in-person research participation (2024.07 ~ 2025.08)
 * Forecasting Regional House Price Index (2024.10 ~ ing)
 * Conformal Prediction for Time Series (2025.01 ~ ing)
 * Change Point Detection in Non-Stationary Time Series: A Brownian Motion Approach (Assisting a PhD Mentor 2024.08 ~ 2024.09)
